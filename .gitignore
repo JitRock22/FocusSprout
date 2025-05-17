@@ -12,15 +12,7 @@ dist
 dist-ssr
 *.local
 
-package*.json
-vite.config.ts
-package-lock.json
-postcss.config.js
-tsconfig.json
-tsconfig.*.json
-bun.lockb
-tailwind.config.js
-eslint*
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
